@@ -1,0 +1,9 @@
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Web\bin\Web.dll.config
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Web\bin\Web.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Web\bin\Web.pdb
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Web\bin\Nancy.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Web\bin\Nancy.Hosting.Aspnet.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Web\bin\Nancy.xml
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Web\bin\Nancy.Hosting.Aspnet.xml
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Web\obj\Debug\Web.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Web\obj\Debug\Web.pdb

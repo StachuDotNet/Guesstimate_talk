@@ -1,0 +1,15 @@
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\Tests.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\Tests.pdb
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\CsQuery.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\Nancy.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\Nancy.Testing.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\Web.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\xunit.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\Web.pdb
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\CsQuery.xml
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\Nancy.xml
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\Nancy.Testing.xml
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\bin\Debug\xunit.xml
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\obj\Debug\Tests.dll
+D:\Talks\Guesstimate_talk\NancyFx\End\Nancy_Demo\Tests\obj\Debug\Tests.pdb
