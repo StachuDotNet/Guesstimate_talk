@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>SignalR Demo Page</h1>
+    <input id="text" type="text" value="" />
+    <button id="btn">Send message to server.</button>
+
+    <script src="Scripts/jquery-1.6.4.min.js" type="text/javascript"></script>
+    <script src="Scripts/jquery.signalR-2.1.1.min.js" type="text/javascript"></script>
+    <script src="signalr/hubs" type="text/javascript"></script>
+    <script>
+        $.connection.hub.start();
+
+        var hub = $.connection.myHub;
+
+        hub.client.clientFunc = function (messageFromServer) {
+            alert(messageFromServer);
+        };
+
+        var contactServer = function(messageToServer) {
+            hub.server.serverFunc(messageToServer);
+        }
+
+        $('#btn').click(function () {
+            contactServer($('#text').val());
+        });
+    </script>
+</body>
+</html>
