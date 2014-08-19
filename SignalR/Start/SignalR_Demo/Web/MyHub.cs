@@ -7,5 +7,6 @@ namespace Web
 {
     public class MyHub
     {
+
     }
 }
