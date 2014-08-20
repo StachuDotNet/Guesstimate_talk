@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tests
 {
-    class ApiModuleTests
+    public class ApiModuleTests
     {
     }
 }

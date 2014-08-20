@@ -7,5 +7,7 @@ namespace Web
 {
     public class ApiModule
     {
+        public static List<Person> People = new List<Person>();
+
     }
 }
